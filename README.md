@@ -17,6 +17,7 @@
 
 1. 克隆本仓库
 2. 打开index.html即可浏览网站
+3. 你可以在https://kevinyang2.github.io/my-blog/访问到这个静态网页
 
 ## 项目结构
 
